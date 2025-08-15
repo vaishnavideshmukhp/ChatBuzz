@@ -41,8 +41,8 @@
 ## 📸 Screenshots / Demo
 > Add your screenshots inside an `images` folder and replace the links below.
 
-![Login Page](images/login.png)  
-![Chat Interface](images/chat.png)
+![Login Page](images/login.jpg)  
+![Chat Interface](images/chats.jpg)
 
 ---
 
